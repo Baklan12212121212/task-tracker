@@ -1,2 +1,3 @@
-# task-tracker
-Учебный проект: Task Tracker(frontend + backend)
+# Task Tracker
+
+Учебный проект: Task Tracker (frontend + backend)
